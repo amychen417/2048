@@ -329,8 +329,7 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    color: #f9f6f2
-    background: url(https://i1.read01.com/SIG=r7u902/30496e6d5a646448546f.jpg);
+    background: url("https://i1.read01.com/SIG=r7u902/30496e6d5a646448546f.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);}
   .tile.tile-4 .tile-inner {
