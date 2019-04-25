@@ -334,7 +334,7 @@ hr {
     color: rgb(0,0,0,0);}
   .tile.tile-4 .tile-inner {
     color: #f9f6f2;
-    background: url(http://img.showwall.com/wp/nine_percent/free/341525.jpg);
+    background: url("http://img.showwall.com/wp/nine_percent/free/341525.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);}
   .tile.tile-8 .tile-inner {
