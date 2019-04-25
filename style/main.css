@@ -329,7 +329,6 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    color: #f9f6f2;
     background: url("https://i1.read01.com/SIG=r7u902/30496e6d5a646448546f.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);}
@@ -343,7 +342,7 @@ hr {
     color: #f9f6f2;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPMySggbeSohMInjQIuIYuSh7QuHtPRzIZn2mQTqtM8rtMoghXHA);
     background-size: cover;
-    color: rgb(0,0,0,0); }
+    color: rgb(0,0,0,0);}
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: url(https://scontent-atl3-1.cdninstagram.com/vp/694fc82……45681096_4527447053474415847_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com);
